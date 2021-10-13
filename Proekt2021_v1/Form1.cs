@@ -16,5 +16,27 @@ namespace Proekt2021_v1
         {
             InitializeComponent();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+          //gfghgfhggggggggg
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //gfghgfhggggggggg
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            //gfghgfhggggggggg
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //gfghgfhggggggggg
+        }
+
+       
     }
 }
