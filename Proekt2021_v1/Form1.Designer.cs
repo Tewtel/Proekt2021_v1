@@ -34,7 +34,7 @@ namespace Proekt2021_v1
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(271, 247);
+            this.button1.Location = new System.Drawing.Point(218, 199);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
