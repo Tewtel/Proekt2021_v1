@@ -37,6 +37,24 @@ namespace Proekt2021_v1
             //gfghgfhggggggggg
         }
 
-       
+        private void button5_Click(object sender, EventArgs e)
+        {
+            //fdgsfgsf
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            //dfgfg
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            //dffdgdf
+        }
     }
 }
